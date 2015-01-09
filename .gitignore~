@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+*.txt~
+core
+__pycache__
+*.qm
+.settings
+pensool/pensool_rc.py

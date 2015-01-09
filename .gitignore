@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.txt~
+core
+__pycache__
+*.qm
+.settings
